@@ -57,19 +57,27 @@ I work with **SQL, Python, Power BI, Tableau, and Advanced Excel**, with a stron
 
 ## 1️⃣ Banking Loan Portfolio Analysis
 
-🔗 [View Project](#)
+🔗 [View Project](YesBank_Loan_Portfolio_DB.pdf)
 
 - **Overview:** Cleaned and normalized **100,000+ raw lending records** using Power Query to eliminate duplicates and resolve missing values.
 - **Impact:** Engineered interactive Power BI dashboards tracking **$12M+ in active loans** and **₹163M+ in total revenue**, reducing data retrieval times for financial stakeholders by **35%**.
 - **Tools:** `Power BI` `Power Query` `DAX`
 
+  <p align="center">
+  <img src="CustomerChurnAnalysisDashboard.jpg" alt="Customer Churn Dashboard" width="700">
+</p>
+
 ## 2️⃣ Customer Churn Analysis
 
-🔗 [View Project](#)
+🔗 [View Project](CustomerChurnAnalysisDashboard.jpg)
 
 - **Overview:** Designed and developed a comprehensive churn dashboard for **China Telecom** using demographic, billing, and subscription metrics across **7,043 customers**.
 - **Impact:** Identified **1,869 customers at risk**, visualizing key KPIs like a **26.54% churn rate** and tenure distributions to drive actionable retention strategies.
 - **Tools:** `Power BI` `Data Visualization`
+  
+<p align="center">
+  <img src="CustomerChurnAnalysisDashboard.jpg" alt="Customer Churn Dashboard" width="700">
+</p>
 
 ## 3️⃣ Adventure Works Sales & Operations Analysis
 
