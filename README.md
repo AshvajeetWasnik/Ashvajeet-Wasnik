@@ -63,10 +63,6 @@ I work with **SQL, Python, Power BI, Tableau, and Advanced Excel**, with a stron
 - **Impact:** Engineered interactive Power BI dashboards tracking **$12M+ in active loans** and **₹163M+ in total revenue**, reducing data retrieval times for financial stakeholders by **35%**.
 - **Tools:** `Power BI` `Power Query` `DAX`
 
-<p align="center">
-  <img src="Bank_Loan_Portfolio_1.jpg" alt="Banking Loan Dashboard" width="700">
-</p>
-
 ## 2️⃣ Customer Churn Analysis
 
 🔗 [View Project](CustomerChurnAnalysisDashboard.jpg)
